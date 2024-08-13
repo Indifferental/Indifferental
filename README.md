@@ -2,4 +2,4 @@
 <p align='center'>ある日、女の子がバラを見て、</p>
 <p align='center'>明るい頂上に咲くバラ。</p>
 <p align='center'>そして彼女は愛する人にこう尋ねました。</p>
-<p align='center'>彼は彼女を手に入れることができるでしょうか？</p>
+<p align='center' style='color: black'>彼は彼女を手に入れることができるでしょうか？</p>
